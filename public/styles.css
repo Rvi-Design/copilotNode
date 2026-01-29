@@ -1,0 +1,15 @@
+body {
+    background: rgb(82, 63, 82);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+}
+
+div img {
+    width: 100%;
+    height: auto;
+}

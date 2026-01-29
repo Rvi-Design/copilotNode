@@ -1,0 +1,25 @@
+{
+  "name": "copilotnode",
+  "version": "1.0.0",
+  "description": "Paired Programming exercise\r - make git repo\r - set up package.json\r - make git ignore\r - serve the pages",
+  "main": "app.js",
+  "scripts": {
+    "serve": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rvi-Design/copilotNode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Rvi-Design/copilotNode/issues"
+  },
+  "homepage": "https://github.com/Rvi-Design/copilotNode#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
